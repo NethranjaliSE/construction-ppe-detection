@@ -454,11 +454,3 @@ ppe-safety/
 
 ---
 
-## Credits and license
-
-- **Dataset:** [Construction Site Safety](https://universe.roboflow.com/roboflow-universe-projects/construction-site-safety), Roboflow Universe Projects, licensed under **CC BY 4.0**.
-- **Reference paper:** R. Rajagopal, H. Pulluru, A. Joshi and C. Shanmuganathan, *"Enhancing Construction Site Safety: Personal Protective Equipment Detection Using Yolov11 and OpenCV"*, ICRDICCT'25, SciTePress, 2025, pp. 344–353. DOI: [10.5220/0013882800004919](https://doi.org/10.5220/0013882800004919)
-- **Models and training framework:** [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) (YOLO11, YOLO26), licensed under **AGPL-3.0**.
-- **Author:** _your name_, [LinkedIn](https://www.linkedin.com/in/<your-profile>), [GitHub](https://github.com/<your-username>)
-
-This project uses Ultralytics, which is licensed under AGPL-3.0, so this repository is released under **AGPL-3.0** as well.
