@@ -1,0 +1,4 @@
+name,model,imgsz,epochs,precision,recall,mAP50,mAP50_95,inference_ms
+smoke_test,yolo11n.pt,640,2,0.1921,0.0705,0.0699,0.0479,42.2867
+exp_a_yolo11n,yolo11n.pt,640,50,0.74,0.5418,0.6057,0.3635,41.7915
+exp_b_yolo26n,yolo26n.pt,640,50,0.7384,0.6036,0.6469,0.4077,39.4571

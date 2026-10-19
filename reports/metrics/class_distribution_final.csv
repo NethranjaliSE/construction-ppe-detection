@@ -1,0 +1,11 @@
+,train,valid,test,total
+Person,858,126,164,1148
+Safety Cone,519,21,60,600
+NO-Safety Vest,426,75,81,582
+Hardhat,391,74,109,574
+Machinery,417,41,37,495
+NO-Mask,353,59,79,491
+Safety Vest,327,37,60,424
+NO-Hardhat,331,39,32,402
+Vehicle,230,23,39,292
+Mask,179,5,18,202

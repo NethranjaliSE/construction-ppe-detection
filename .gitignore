@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+data/raw/
+data/processed/
+*.pt
+models/runs/
+
+samples/
+# generated prediction videos (too large for GitHub push)
+reports/predictions/**/*.mp4

@@ -1,0 +1,15 @@
+path: D:\ppe-safety\data\processed
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: Hardhat
+  1: Machinery
+  2: NO-Hardhat
+  3: Mask
+  4: Safety Cone
+  5: NO-Mask
+  6: Safety Vest
+  7: Vehicle
+  8: NO-Safety Vest
+  9: Person

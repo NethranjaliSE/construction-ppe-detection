@@ -1,0 +1,26 @@
+,train,valid,test,total
+Person,808,166,174,1148
+Safety Cone,464,44,92,600
+NO-Safety Vest,386,106,90,582
+Hardhat,385,79,110,574
+NO-Mask,338,74,79,491
+Safety Vest,322,41,61,424
+NO-Hardhat,292,69,41,402
+Gloves,231,25,40,296
+Mask,153,21,28,202
+Excavator,145,12,9,166
+dump truck,127,13,17,157
+wheel loader,93,22,12,127
+vehicle,74,18,30,122
+Ladder,43,10,5,58
+sedan,39,13,2,54
+machinery,31,8,6,45
+truck,29,4,2,35
+van,18,3,7,28
+SUV,16,0,0,16
+trailer,13,1,1,15
+mini-van,6,1,0,7
+semi,7,0,0,7
+truck and trailer,4,3,0,7
+fire hydrant,6,0,0,6
+bus,1,0,0,1
